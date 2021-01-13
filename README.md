@@ -1,6 +1,8 @@
 ## Hi there ,my name is Pawarit Sripiboon! 👋
 
-- 🔭 I’m currently studying at Srinakharinwirot University
+i want to train myself to become a best web developer💻
+- 😾 I’m currently studying at Srinakharinwirot University
+- 🔥 I’m currently learning in majoring computer science
 <!--
 **ttxrps/ttxrps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
