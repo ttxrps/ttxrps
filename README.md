@@ -1,8 +1,11 @@
 ## Hi there ,my name is Pawarit Sripiboon! 👋
 
-i want to train myself to become a best web developer💻
+👇Hey!! welcome to my github profile,Come & get to know me now!👇
 - 😾 I’m currently studying at Srinakharinwirot University
 - 🔥 I’m currently learning in majoring computer science
+
+### 🚀🎓The Dream🎓🎈
+-i want to train myself to become a best web developer💻 & learn other skills of programmer
 <!--
 **ttxrps/ttxrps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
