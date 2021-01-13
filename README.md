@@ -12,8 +12,7 @@
 - Machine Learning&AI ![ML](https://img.icons8.com/officexs/16/000000/bot.png) Because AI is what I want the country to have.
 - RFC & RFID 📱 Because Is a technology that many countries have.
 
-[![alt text][1.1]][1]
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <!--
 **ttxrps/ttxrps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
