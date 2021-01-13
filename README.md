@@ -5,7 +5,11 @@
 - 🔥 I’m currently learning in majoring computer science
 
 ### 🚀🎓The Dream🎓🎈
--i want to train myself to become a best web developer💻 & learn other skills of programmer
+- i want to train myself to become a best web developer💻 & learn other skills of programmer
+
+### ⛄My Interest🐬
+- React ![React](https://img.icons8.com/offices/30/000000/react.png)
+
 <!--
 **ttxrps/ttxrps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
