@@ -8,7 +8,8 @@
 - i want to train myself to become a best web developer💻 & learn other skills of programmer
 
 ### ⛄My Interest🐬
-- React ![React](https://img.icons8.com/officexs/16/000000/react.png)  - Machine Learning ![ML](https://img.icons8.com/plumpy/24/000000/machine-learning.png)
+- React ![React](https://img.icons8.com/officexs/16/000000/react.png) Because React is Popular
+- Machine Learning&AI ![ML](https://img.icons8.com/officexs/16/000000/bot.png) Because AI is what I want the country to have.
 
 <!--
 **ttxrps/ttxrps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
